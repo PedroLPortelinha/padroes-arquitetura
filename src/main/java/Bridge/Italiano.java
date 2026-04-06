@@ -1,3 +1,5 @@
+package Bridge;
+
 public class Italiano implements Estilo {
     
     public double getPreco() {

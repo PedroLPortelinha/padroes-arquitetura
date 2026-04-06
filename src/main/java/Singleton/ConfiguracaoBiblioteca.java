@@ -1,4 +1,4 @@
-package padroescriacao.singleton;
+package Singleton;
 
 public class ConfiguracaoBiblioteca {
 
